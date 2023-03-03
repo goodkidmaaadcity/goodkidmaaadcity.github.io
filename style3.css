@@ -1,0 +1,123 @@
+@charset "UTF-8";
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#contenedor {
+    width: 100%;
+    height: auto;
+    background-color: #CBB18E;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+#contenedor header {
+    width: 100%;
+    height: 10vh;
+    background-color: #000000;
+    float: left;font-family: 'Righteous', cursive;
+
+}
+nav {
+    width: 60%;
+    height: 10vh;
+    float: left;
+    background-color: #000000;
+}
+ul {
+    list-style-type: none;
+    list-style-image: none;
+}
+li {
+    width: 33%;
+    height: 10vh;
+    float: left;
+    background-color: #000000;
+    text-align: center;
+}
+a {
+    color: #F9F7F7;
+    text-align: center;
+    text-decoration: none;
+    line-height: 10vh;
+    display: block;
+    background-color: #000000;
+    position: static;
+}
+a:hover {
+    color: #2A0000;
+    background-color: rgba(255,255,255,1.00);
+}
+#contenedor main {
+    width: 100%;
+    height: 85vh;
+    float: left;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-image: url(../img/In%20Studio%20with%20Kendrick%20Lamar.jpg);
+   
+}
+	
+
+
+#logo {
+    width: 10%;
+    height: 10vh;
+    float: left;
+    background-image: url(../img/%E2%80%94Pngtree%E2%80%94white%20earth%20free%20map_4425993.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#redes {
+    width: 30%;
+    height: 10vh;
+    float: right;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#contenedor footer {
+    height: 5vh;
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    color: #FFFFFF;
+    padding-right: 23px;
+    padding-left: 23px;
+    background-color: #3D7B67;
+ 
+	
+}
+h5 { 
+}
+
+section {
+    height: 80vh;
+    width: 25%;
+    float: left;
+}
+#1 {
+
+}
+#2 {
+
+}
+#3 {
+    background-image: url(../img/In%20Studio%20with%20Kendrick%20Lamar-2.jpg);
+}
+#4 {
+}
+video {
+    width: 700px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
